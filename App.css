@@ -1,0 +1,5 @@
+/* same UI */ .chat-container{width:500px;margin:50px auto;background:#f3f3f3;padding:20px;border-radius:10px;}
+.messages{height:400px;overflow-y:auto;background:white;padding:10px;border-radius:10px;}
+.user-msg{text-align:right;margin:8px;padding:10px;background:#d1e7ff;border-radius:8px;}
+.ai-msg{text-align:left;margin:8px;padding:10px;background:#ffe8c6;border-radius:8px;}
+.input-area{display:flex;margin-top:20px;} input{flex:1;padding:10px;} button{padding:10px 20px;}
